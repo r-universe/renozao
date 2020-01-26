@@ -23,3 +23,8 @@
 	url = https://github.com/renozao/rngtools
 	shallow = true
 	registered = true
+[submodule "roclets"]
+	path = roclets
+	url = https://github.com/renozao/roclets
+	shallow = true
+	registered = false
