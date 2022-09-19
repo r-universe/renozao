@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "doRNG"]
+	path = doRNG
+	url = https://github.com/renozao/dorng
+	shallow = true
+	registered = true
 [submodule "NMF"]
 	path = NMF
 	url = https://github.com/renozao/nmf
