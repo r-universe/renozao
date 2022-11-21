@@ -13,11 +13,6 @@
 	url = https://github.com/renozao/nmf
 	shallow = true
 	registered = true
-[submodule "pkgmaker"]
-	path = pkgmaker
-	url = https://github.com/renozao/pkgmaker
-	shallow = true
-	registered = true
 [submodule "rngtools"]
 	path = rngtools
 	url = https://github.com/renozao/rngtools
