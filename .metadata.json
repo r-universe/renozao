@@ -1,9 +1,5 @@
 [
   {
-    "package": "doRNG",
-    "oncran": true
-  },
-  {
     "package": "NMF",
     "oncran": true
   },
