@@ -4,6 +4,10 @@
     "oncran": true
   },
   {
+    "package": "pkgmaker",
+    "oncran": true
+  },
+  {
     "package": "rngtools",
     "oncran": true
   }
