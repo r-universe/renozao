@@ -8,9 +8,9 @@
 	url = https://github.com/renozao/dorng
 	shallow = true
 	registered = true
-[submodule "NMF"]
-	path = NMF
-	url = https://github.com/renozao/nmf
+[submodule "rngtools"]
+	path = rngtools
+	url = https://github.com/renozao/rngtools
 	shallow = true
 	registered = true
 [submodule "pkgmaker"]
@@ -18,9 +18,9 @@
 	url = https://github.com/renozao/pkgmaker
 	shallow = true
 	registered = true
-[submodule "rngtools"]
-	path = rngtools
-	url = https://github.com/renozao/rngtools
+[submodule "NMF"]
+	path = NMF
+	url = https://github.com/renozao/nmf
 	shallow = true
 	registered = true
 [submodule "roclets"]
