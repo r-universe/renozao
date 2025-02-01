@@ -8,9 +8,6 @@
 [submodule "doRNG"]
 	path = doRNG
 	url = https://github.com/renozao/dorng
-[submodule "pkgmaker"]
-	path = pkgmaker
-	url = https://github.com/renozao/pkgmaker
 [submodule "rngtools"]
 	path = rngtools
 	url = https://github.com/renozao/rngtools
