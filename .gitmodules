@@ -5,9 +5,6 @@
 [submodule "NMF"]
 	path = NMF
 	url = https://github.com/renozao/nmf
-[submodule "doRNG"]
-	path = doRNG
-	url = https://github.com/renozao/dorng
 [submodule "rngtools"]
 	path = rngtools
 	url = https://github.com/renozao/rngtools
