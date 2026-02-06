@@ -8,7 +8,3 @@
 [submodule "rngtools"]
 	path = rngtools
 	url = https://github.com/renozao/rngtools
-[submodule "roclets"]
-	path = roclets
-	url = https://github.com/renozao/roclets
-	registered = false
